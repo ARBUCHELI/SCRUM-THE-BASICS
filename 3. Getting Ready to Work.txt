@@ -120,7 +120,86 @@ This is needed to check that the work is being done.
 4. Customer password is captured and saved.
 
 
---------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Set boundaries for success
+----------------------------
+
+* Team Boundaries
+-----------------
+. Definition of done
+
+. Backlog prioritization
+
+. Sprint cadence
+
+
+* Definition of done
+--------------------
+Minimum requirements have beem met for ALL stories.
+
+
+* Done Example
+---------------
+. For a story on our team to be considered done, it has been tested in the prerelease environment.
+
+. For a story on our team to be considered done, it has been code reviewed and all errors fixed.
+
+
+
+* Backlog refinement
+--------------------
+Stories are sequenced or prioritized by value.
+
+			* REMEMBET, SCRUM ALLOWS FLEXIBILITY IN SCOPE, BUT IS LOCKED IN DURATION, SO THE PO WANTS THE MOST VALUABLE STUFF DELIVERED FIRST.
+
+
+* Establish your sprint
+-----------------------
+A sprint can be anywhere from one to four weeks in lenght with a preference toward the shorter time scale.
+
+It's better to stablish the shorted feasible sprint length you can.
+
+			* TRY A TWO-WEEK SPRINT CADENCE.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
