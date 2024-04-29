@@ -14,3 +14,40 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* The agile revolution
+----------------------
+
+			* THE FRUSTRATION OF HIGHLY-SKILLED SOFTWARE DEVELOPERS WORKING ON WATERFALL PROJECTS WAS THE TIPPING POINT THAT LED TO THE AGILE REVOLUTION.
+
+			
+* AGILE MANIFESTO
+-----------------
+http://agilemanifesto.org/principles.html
+
+* Agile Manifesto
+-----------------
+We are uncovering better ways of developing software by doing it and helping others do it.
+
+Through this work we have come to value:
+
+INDIVIDUALS AND INTERACTIONS over processes and tools
+
+WORKING SOFTWARE over comprehensive documentation
+
+CUSTOMER COLLABORATION over contract negotiation
+
+RESPONDING TO CHANGE over following a plan
+
+That is, while there is value in the items on the right, we value the items on the left more.
+
+
+
+1. Work with business partners throughout a project.
+
+2. Measure success using completed software.
+
+3. Allow teams to self-organize.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* 
