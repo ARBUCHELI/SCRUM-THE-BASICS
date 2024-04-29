@@ -57,8 +57,70 @@ up themselves.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Write user stories
+--------------------
+Themes and features are still to big for a team to work on and deliver value in small timeframes.
+
+			* WE ARE DELIVERING FOR CUSTOMERS OR USERS.  EACH INTERACTION THEY HAVE WITH OUR PRODUCT IS A USE CASE THAT TELLS THE TEAM A STORY.  WE CALL THESE, USER STORIES
+			AND THIS IS THE LEVEL OF DETAIL WE NEED, TO KNOW WHAT TO DELIVER.
 
 
+* USER STORY
+------------
+Detailed, valuable chunk of work a team can quickly deliver.  --> Usually written by the PO.
+
+. When writting user stories, is a good idea to use the Bill Wakes I N V E S T acronym as a guide.
+
+. I ndependent.
+
+. N egotiable.
+
+. V aluable.
+
+. E stimable.
+
+. S mall.
+
+. T estable.
+
+			* FORMAT FOR USER STORIES
+			-------------------------
+
+			As a <user role>, I want <user requirement> so that <desired benefit>.
+
+
+* Example of a good user story for our Lunch Example App (Funcional User Story)
+-------------------------------------------------------------------------------
+As a MOBILE CUSTOMER, I want TO CREATE A PROFILE so that FUTURE ORDERS ARE FASTER TO PLACE. --> Example of a Functional User Story
+
+
+* Nonfunctional story
+---------------------
+Work that supports users without directly benefiting them.
+
+
+* Nonfunctional Story
+---------------------
+As a DEVELOPER, I want TO UPGRADE THE DATABASE SOFTWARE TO THE LATEST VERSION so that WE HAVE A SUPPORTED PRODUCT.
+
+
+* AC (ACCEPTANCE CRITERIA)
+--------------------------
+This is needed to check that the work is being done.
+
+
+* ACCEPTANCE CRITERIA EXAMPLE
+-----------------------------
+1. Customer name is captured and saved.
+
+2. Customer email address is captured and saved.
+
+3. Customer phone number is captured and saved.
+
+4. Customer password is captured and saved.
+
+
+--------------------------
 
 
 
