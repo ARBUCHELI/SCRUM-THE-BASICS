@@ -48,6 +48,40 @@ Meeting for the team to reflect on how to improve.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Essential roles for scum teams
+--------------------------------
+
+* PRODUCT OWNER (PO) RESPONSIBILITIES
+-------------------------------------
+. Acts as a full-time business representative.
+
+. Reviews the team's work.
+
+. Ensures highest value is delivered.
+
+. Interacts with stakeholders.
+
+. Maintains the product vision.
+
+			* THE SCRUM APPROACH ALLOWS THE SCOPE TO BE FLEXIBLE.
+
+
+* SCRUM MASTER RESPONSIBILITIES
+-------------------------------
+. Protects the team and its processes.
+
+. Keeps the team working at a sustainable pace.
+
+			* SCRUM VALUES SUSTAINABILITY AND OPEN DIALOGUE.
+
+. Acts as a spokesperson for the team.
+
+. Helps remove any roadblocks.
+
+. Holds the team accountable to the product owner.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
