@@ -1,0 +1,80 @@
+# 2. The Heart of the Framework
+-------------------------------
+
+* Solve project problems with scrum
+-----------------------------------
+
+* Constrains of Waterfall Project Teams
+---------------------------------------
+. Time
+. Cost
+. Scope
+
+
+* Agile Projects
+----------------
+			FLEXIBLE			FIXED
+			--------			-----
+			Scope				Cost
+
+
+			* LOCK EVERYTHING BUT SCOPE
+
+
+			* PRODUCT OWNER			* SCRUM MASTER
+
+
+* PRODUCT OWNER
+---------------
+Business representative dedicated to the team.
+
+* SCRUM MASTER
+--------------
+Dedicated role that protects the team and helps them improve.
+
+* TIMING
+--------
+Teams deliver products every two to four weeks.
+
+* DAILY STANDUP
+---------------
+Team meeting is held each day.
+
+* RETROSPECTIVE
+---------------
+Meeting for the team to reflect on how to improve.
+
+			* FOCUS ON MAXIMIZING TEAM EFFICIENCY.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
