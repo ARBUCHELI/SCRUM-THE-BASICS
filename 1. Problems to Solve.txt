@@ -50,4 +50,27 @@ That is, while there is value in the items on the right, we value the items on t
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* 
+* Scrum: The leading project methodology
+----------------------------------------
+			* SCRUM WANTS YOU TO FAIL --> Fail Fast.
+
+			
+* SMALL SCALE FOCUS
+
+* RAPID LEARNING CYCLES
+
+			* FAIL FAST MEANS LEARN FAST.
+
+
+* SCRUM FRAMEWORK (In a Nutshell)
+-----------------
+. Product owner prioritizes a backlog of work.
+
+. Team decides what work can be done next.
+
+. Team develops and tests solutions until done.
+
+. Team demonstrates its completed work.
+
+. Team reflects on how it can improve.
+
