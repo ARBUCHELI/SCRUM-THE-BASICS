@@ -1,0 +1,91 @@
+# 3. GETTING READY TO WORK
+--------------------------
+
+* Set the vision for your project
+---------------------------------
+
+* PRODUCT VISION
+----------------
+. Serves as a guide for your team.
+
+. Established by the product owner.
+
+
+* MINIMUM VIABLE PRODUCT (MVP)
+------------------------------
+. When a product has been developed just enough to get user feedback.
+
+. Allows for a fast feedback loop.
+
+. Reduces scope creep.
+
+
+* EXAMPLE OF A PRODUCT VISION
+-----------------------------
+Help busy professionals have more time and feel healthier by providing a mobile app where they can quickly order an affordable, tasty, healthy lunch and have it delivered o pick it
+up themselves.
+
+
+* DECOMPOSING A VISION
+----------------------
+1. Identify themes.
+
+2. Break themes into features.
+
+
+			* EXAMPLE THEMES
+			----------------
+			. Profiles		. Payment
+			. Order			. Delivery
+
+
+. Themes trigger development ideas.
+
+. Themes group work for efficiency and security.
+
+
+			* EXAMPLE FEATURES FOR PROFILE
+			 -----------------------------
+			. Login
+			. Save Password
+			. Recent orders
+			. Favorites
+			. Recent locations
+
+
+. In the example, an MVP would only need, security, login, and save password.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
