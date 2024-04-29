@@ -164,6 +164,24 @@ It's better to stablish the shorted feasible sprint length you can.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Story points and estimation in scrum
+--------------------------------------
+
+* Actual Estimate
+-----------------
+For example when you are reading a map that says: It's 25 miles from point A to point B.
+
+
+* Relative Estimate
+-------------------
+When comparing things to each other to get a general idea about something.  For example when saying that a giraffe is twice the size of a zebra.
+
+			* A RELATIVE ESTIMATE IS NOT A COMMITMENT.
+
+			* USE STORY POINTS TO CONVEY RELATIVE SIZES.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
