@@ -182,6 +182,44 @@ When comparing things to each other to get a general idea about something.  For 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Create a roadmap and release plan
+-----------------------------------
+
+* Roadmap
+---------
+Guide showing when themes will be worked on during a time frame.
+
+
+* Example Themes
+----------------
+We identified themes of profile, ordering, payment, delivery.  
+
+Now we need to decide the best order to work on these themes.
+
+
+				ROADMAP
+				-------
+
+			 Jan Feb Mar Apr May Jun
+			 -----------------------
+			 Profile     Payment
+			     Ordering
+				       Delivery
+
+
+* Release Plan
+--------------
+Next layer of detail.  It provides visibility to how we're going to deliver.  It connects the roadmap to the Sprints.
+
+			* IN SCRUM, YOU MUST HAVE COMPLETED STORIES AT THE END OF A SPRINT.
+
+
+* Stabilized Velocity
+---------------------
+The team knows how many story points they can complete in each sprint.
+
+			* REMEMBER THAT YOU DON'T NEED TO RELEASE TO THE STAKEHOLDERS AFTER EACH SPRINT.  YOU CAN RELEASE AFTER TWO OR THREE SPRINTS.
+
 
 
 
