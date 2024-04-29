@@ -82,6 +82,48 @@ Meeting for the team to reflect on how to improve.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Establish your scrum team
+---------------------------
+			* SCRUM IS ALL ABOUT DAILY COMMUNICATION AND COLLABORATION.
+
+
+* COLLABORATION AND COMMUNICATION TIPS
+--------------------------------------
+. Colocate your team in the same area.
+
+. Video conferencing.
+
+. Chat rooms.
+
+. Conferencing phones.
+
+
+* TEAM COMPOSITION
+------------------
+. Ideal size: seven, plus or minus two members.
+
+. Includes team members with T-shaped skills.
+
+
+* SOME SPECIALIZED SKILLS
+-------------------------
+. Architects
+
+. Database analysts
+
+. Security analysts
+
+
+* DEALING WITH CONFLICTS
+------------------------
+. Establish team norm early.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 
