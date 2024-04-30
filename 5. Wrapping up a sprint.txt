@@ -1,0 +1,18 @@
+# 5. WRAPPING UP A SPRINT
+-------------------------
+
+* Get stories done in scrum
+---------------------------
+			* THE PRODUCT OWNER HAS THE FINAL WORD.
+
+
+* Sprint Review
+---------------
+. When the team reviews the sprint.
+
+. Unaccepted or incomplete work is reviewed, prioritized, and moved to another sprint.
+
+. Team agrees on what to demonstrate to stakeholders.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
