@@ -16,3 +16,22 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Demo the team's work
+----------------------
+. In scrum we strive to deliver a working product at the end of every sprint.
+
+
+* Demo
+------
+. Meeting that shares the product with stakeholders.
+
+. The team directly communicates with stakeholders and receives feedback.
+
+. Relationships build between the team and stakeholders.
+
+. Overall progress toward the final goal is needed.
+
+			* HOLD DEMOS AS OFTEN AS POSSIBLE.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
