@@ -139,6 +139,43 @@ In order to Scrum to work, it relies on the 3 C's:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Backlog refinement in scrum
+-----------------------------
+
+			* IN SCRUM, THE PRODUCT OWNER IS ACCOUNTABLE TO THE TEAM AND THE STAKEHOLDERS.
+
+			* A KEY TO KEEP PRODUCTIVITY IS THE ONGOING REFINEMENT OF THE PRODUCT BACKLOG.
+
+
+* Backlog Changes
+-----------------
+. New features and stories are added.
+
+. Stories are changed and removed.
+
+
+			* AT LEAST ONCE PER SPRINT, THE WHOLE TEAM COMES TOGETHER TO SEE WHAT NEW ITEMS HAVE COME UP.
+
+
+* Backlog Refinement Session
+----------------------------
+. Lasts 30-60 minutes.
+
+. Occurs at the sprint's midpoint.
+
+			* STORIES CAN ONLY BE ADDED TO FUTURE SPRINTS.
+
+
+			* SPRINT COMMITMENT CANNOT CHANGE ONCE THE SPRINT BEGINS.
+
+			* THERE ARE NO SURPRISES ONCE A SPRINT IS UNDERWAY.
+
+
+
+
+
+
+			
 
 
 
@@ -151,8 +188,7 @@ In order to Scrum to work, it relies on the 3 C's:
 
 
 
-
-
+		
 
 
 
