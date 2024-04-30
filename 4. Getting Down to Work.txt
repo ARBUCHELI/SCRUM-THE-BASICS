@@ -47,3 +47,82 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Track your scrum progress
+---------------------------
+
+* Information radiators
+-----------------------
+Anything that you post on walls or team sites that help everyone understand what you are doing.
+
+
+* Information Radiators
+-----------------------
+. Project Vision
+. Team norms
+. Team's definition of done
+. Roadmap
+. Release plan
+
+
+* Task Board
+------------
+. Sprint stories
+. Status of current tasks
+. Completed tasks
+
+
+			 Stories			Not started			In progress				Done
+			 -------			-----------			-----------				----
+			Story # 1						   	  Task C			Task A		Task B
+
+			Story # 2                         Task A			  Task C			Task B
+
+			Story # 3			  Task A							Task B		Task C
+
+
+* Sprint Burndown Chart
+-----------------------
+. Measures sprint execution
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
