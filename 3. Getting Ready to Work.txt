@@ -221,6 +221,27 @@ The team knows how many story points they can complete in each sprint.
 			* REMEMBER THAT YOU DON'T NEED TO RELEASE TO THE STAKEHOLDERS AFTER EACH SPRINT.  YOU CAN RELEASE AFTER TWO OR THREE SPRINTS.
 
 
+			10 points per sprint	X 	3 number of sprints	=	30 points per release
+
+
+. In the release plan we don't plan in priority order.
+
+. At this level of detail is about maximizing the number of points per sprint.
+
+
+						RELEASE
+						-------
+
+			SPRINT 1		SPRINT 2		SPRINT 3
+			--------		--------		--------
+		    Story A 3 Points        Story C 8 Points        Story G 5 Points
+		    
+		    Story B 2 Points        Story E 2 Points        Story H 5 Points
+	
+		    Story D 5 Points	    Story F 1 Points        
+
+
+
 
 
 

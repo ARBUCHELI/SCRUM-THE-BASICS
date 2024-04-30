@@ -1,0 +1,49 @@
+# 4. GETTING DOWN TO WORK
+-------------------------
+
+* Sprint Planning in Scrum
+--------------------------
+
+* Spring Planning Meeting Attendees
+-----------------------------------
+. Developers.
+. Scrum Master.
+. Product Owner.
+
+
+* Sprint Planning Meeting
+-------------------------
+. Understand the story and acceptance criteria.
+. Post the definition of done.
+. Plan for a question and answer session.
+
+
+			* GOING BACK TO OUR EXAMPLE APP:
+
+			Story			Task
+			-----			----
+			Create user ID. 	Write new use ID to the database ---> This task should take about half and hour.
+
+
+			* SPRINT 1
+			----------
+
+		Story A = 3 points			Story B = 2 points			Story D = 5 points
+		==================			==================			==================
+		   Task 1 = 1 hr		           Task 1 = 2 hrs			   Task 1 = 8 hrs
+		------------------			------------------			------------------
+		   Task 2 = 8 hrs			   Task 2 = 2 hrs			   Task 2 = 6 hrs
+		------------------			------------------		        ------------------
+		   Task 3 = 1 hr			   Task 3 = 1 hrs			   Task 3 = 5 hrs
+							------------------			------------------
+							   Task 4 = 1 hrs			   Task 4 = 8 hrs
+
+
+			* REMEMBER THAT IN AN 8 HOUR OF WORKING DAY, DEVELOPERS ONLY HAVE ABOUT 6 HOURS OF PRODUCTIVE TIME
+
+			* WE TRY TO AVOID OVER COMMITMENT.  FOR THAT REASON WE NEED TO DO THIS COMPARISON BETWEEN NECESSARY AND AVAILABLE HOURS.
+
+			* THE NEXT STEP IS ASK WHETHER EACH TEAM MEMBER WILL COMMIT TO THE STORIES IN THE SPRINT.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
