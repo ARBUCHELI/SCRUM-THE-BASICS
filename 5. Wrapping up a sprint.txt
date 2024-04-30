@@ -35,3 +35,90 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Assess the team
+-----------------
+. For a scrum team, a 100% of every sprint is focused on the needs of the stakeholders and the end users.
+
+
+* Retrospective
+---------------
+Meeting focused on team performance at the end of each sprint.
+
+
+* Successful Retrospective
+--------------------------
+. Safe environment.
+
+. Team members only.
+
+. Team norms observed.
+
+. Open dialogue.
+
+
+* Retrospective Agenda
+----------------------
+1. What worked well?
+2. What did not work well?
+3. What can be improved?
+
+
+			* STAR WITH THE TEAM SUCCESS FIRST.
+
+			
+* 1. What worked well?
+----------------------
+. Focus on examples of great collaboration.
+
+* 2. What did not work well?
+----------------------------
+. Focus on what you can change.
+
+* 3. What can be improved?
+--------------------------
+. Focus on one or two items in the next sprint.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
