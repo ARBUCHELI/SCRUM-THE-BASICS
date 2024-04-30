@@ -87,6 +87,122 @@ Anything that you post on walls or team sites that help everyone understand what
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* The daily scrum or standup meeting
+------------------------------------
+
+In order to Scrum to work, it relies on the 3 C's:
+
+. C ollaboration
+
+. C ommunication
+
+. C adence
+
+
+* Standup Format
+----------------
+. Entire team joins
+	- Developers
+	- Testers
+	- PO
+	- Scrum master
+
+. Same time every day
+
+. The daily standup is one of the non - negotiables of the SCRUM framework.
+
+. This is the time when tasks are moved across the board.
+
+. 15 minutes
+
+
+* Standup Discussion Questions
+------------------------------
+. What did you do yesterday?
+
+. What are you going to do today?
+
+. Is anything blocking your progress?
+
+
+			* STANDUP MEETINGS ARE OPPORTUNITIES TO ASK FOR HELP
+
+			* ONE OF THE MOST POWERFUL ASPECTS OF SCRUM IS THE IMMEDIACY IN WHICH ISSUES ARE RESOLVED.  IF SOMEONE IN THE TEAM SAYS THEY HAVE SOMETHING BLOCKING THEM, THE WHOLE
+			TEAM HAS THE ABILITY TO STEP IN AND HELP.
+
+				. If it can't be resolved within a day by the team, the scrum master steps in.
+
+				. If the scrum master can't fix it in a day, it goes to the PO to help solve the next day and so on.  
+
+				. These scalations then continue until the blocker is removed and progress can be made again.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
